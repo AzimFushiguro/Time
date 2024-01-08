@@ -11,5 +11,6 @@ public class Main {
         System.out.println(calendar.get(Calendar.HOUR));
         System.out.println(calendar.get(Calendar.MINUTE));
         System.out.println(calendar.get(Calendar.MILLISECOND));
+        System.out.println("Hello");
     }
 }
